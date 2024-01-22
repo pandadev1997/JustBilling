@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-22T22:24:54 IST" name="Default suite" finished-at="2024-01-22T22:25:07 IST" duration-ms="12597">
+    <groups>
+    </groups>
+    <test started-at="2024-01-22T22:24:54 IST" name="Default test" finished-at="2024-01-22T22:25:07 IST" duration-ms="12597">
+      <class name="com.Ecommerce.JBMarketPlace.Practice.FirstScenario">
+        <test-method is-config="true" signature="DB_Conn()[pri:0, instance:com.Ecommerce.JBMarketPlace.Practice.FirstScenario@a530d0a]" started-at="2024-01-22T22:24:54 IST" name="DB_Conn" finished-at="2024-01-22T22:24:54 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DB_Conn -->
+        <test-method is-config="true" signature="LaunchBorwser()[pri:0, instance:com.Ecommerce.JBMarketPlace.Practice.FirstScenario@a530d0a]" started-at="2024-01-22T22:24:54 IST" name="LaunchBorwser" finished-at="2024-01-22T22:25:01 IST" duration-ms="7413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBorwser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.Ecommerce.JBMarketPlace.Practice.FirstScenario@a530d0a]" started-at="2024-01-22T22:25:01 IST" name="login" finished-at="2024-01-22T22:25:02 IST" duration-ms="895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="verifyUserSelectDropdownOptionorNot()[pri:0, instance:com.Ecommerce.JBMarketPlace.Practice.FirstScenario@a530d0a]" started-at="2024-01-22T22:25:02 IST" name="verifyUserSelectDropdownOptionorNot" finished-at="2024-01-22T22:25:05 IST" duration-ms="3177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserSelectDropdownOptionorNot -->
+        <test-method is-config="true" signature="logoutFromApp()[pri:0, instance:com.Ecommerce.JBMarketPlace.Practice.FirstScenario@a530d0a]" started-at="2024-01-22T22:25:05 IST" name="logoutFromApp" finished-at="2024-01-22T22:25:06 IST" duration-ms="997" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutFromApp -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.Ecommerce.JBMarketPlace.Practice.FirstScenario@a530d0a]" started-at="2024-01-22T22:25:06 IST" name="closeBrowser" finished-at="2024-01-22T22:25:07 IST" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="Db_conn_close()[pri:0, instance:com.Ecommerce.JBMarketPlace.Practice.FirstScenario@a530d0a]" started-at="2024-01-22T22:25:07 IST" name="Db_conn_close" finished-at="2024-01-22T22:25:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Db_conn_close -->
+      </class> <!-- com.Ecommerce.JBMarketPlace.Practice.FirstScenario -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
